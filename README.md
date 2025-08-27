@@ -17,3 +17,9 @@ It includes two files:
    ```bash
    git clone https://github.com/marwanfawzi49/calculator.git
    cd calculator
+## Run Tests
+
+Install pytest if you don’t already have it:
+
+```bash
+pip install pytest
